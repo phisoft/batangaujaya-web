@@ -1,0 +1,1001 @@
+/** @media Querry-Start **/
+
+@media only screen and (min-width: 320px) and (max-width: 479px){
+
+
+    /* Banner-Section */ 
+
+    .banner-section{
+        min-height: 250px;
+    }
+    .banner-section .inner h1.banner-content{
+        font-size: 15px;
+        letter-spacing: 0;
+        line-height: 20px;
+        margin: 0 0 10px 0;
+    }
+
+
+}
+@media only screen and (min-width: 480px) and (max-width: 567px){
+
+    /* Banner-Section */ 
+
+    .banner-section{
+        min-height: 300px;
+    }
+
+
+
+    .banner-section .inner h1.banner-content{
+        font-size: 16px;
+        letter-spacing: 0;
+        line-height: 22px;
+    }
+
+
+}
+
+@media only screen and (min-width: 320px) and (max-width: 567px){
+
+    body{
+        font-size: 14px;
+        line-height: 21px;
+    }
+
+    /* Banner-Section */
+
+    .banner-section .get-quote a{
+        font-size: 10px;
+        line-height: 18px;
+    }
+
+    .banner-section .slide-content .coll-middle .inner .container{
+        padding-top: 78px;
+    }
+
+    /* Our-Service */
+
+
+    .our-services{
+        padding: 40px 0 20px 0;
+    }
+
+    .section-title{
+        margin-bottom: 30px;
+    }
+
+    .section-title h2{
+
+        font-size: 22px;
+        line-height: 28px;
+    }
+
+    .our-services .icon-box .content h4{
+        font-size: 16px;
+        line-height: 22px;
+    }
+    /* planet-section .overlay */
+
+    .planet-section .overlay{
+        padding: 40px 0;
+
+    }
+
+    .planet-section .overlay .btn.m-t-40{
+        margin-top: 20px !important;
+    }
+
+    /* Roofing-Section */
+
+    .choose-roofing-section{
+        padding: 40px 0 0px 0;
+    }
+
+    .choose-roofing-section .icon-box.m-b-40{
+        margin-bottom: 30px !important;
+    }
+
+    /* latest-news-section */
+
+    .latest-news-section{
+        margin-bottom: 30px;
+    }
+
+    article.post-entry h2.entry-title{
+        font-size: 16px;
+        line-height: 22px;
+    }
+
+    .latest-news-section article.post-entry a.m-t-20{
+        margin-top: 10px !important;
+    }
+
+    .latest-news-section .view-all-blog.m-t-30{
+        margin-top: 10px !important;
+    }   
+
+    /* Overlay-Section */
+
+    .overlay-section .overlay{
+        padding: 40px 0;
+    }
+
+    .overlay-section .overlay h1{
+        font-size: 16px;
+        line-height: 20px;
+    }
+
+    /* latest-project */
+
+    .latest-project{
+        margin: 40px 0;
+    }
+
+    /* quote-form */
+
+    .quote-form{
+        margin: 40px 0;
+    }
+
+    /* Footer-Overlay */
+
+    #footer .widgetized-footer{
+        padding: 40px 0 15px 0;
+    }
+
+    #footer .footer-widget.m-b-50{
+        margin-bottom: 25px !important;
+    }
+
+    #footer .copyright-footer ul.m-b-20{
+        margin-bottom: 10px !important;
+    }
+
+    #footer .copyright-footer ul li{
+        margin: 0;
+        display: block;
+    }
+
+
+    /* About-Us-Page */
+
+    /* Page-Header */
+
+    .page-header .overlay{
+        padding: 110px 0 30px 0;
+    }
+
+    .page-header .overlay h1.page-title{
+        font-size: 22px;
+        line-height: 28px;
+    }
+
+    .page-header .overlay p{
+        font-size: 18px;
+        line-height: 24px;
+    }
+
+    /* Our Company*/
+
+    .our-company{
+        margin: 10px 0;
+    }
+    .our-company .creative-designs.m-t-50{
+        margin-top: 5px !important;
+
+    }
+
+    .our-company .creative-designs .about-us-icon-box h4 span{
+        height: 50px;
+        width: 50px;
+        line-height: 48px;
+    }
+
+    .our-company .creative-designs .about-us-icon-box h4{
+        padding-left: 60px;
+        height: 25px;
+    }
+
+    .our-company .creative-designs .about-us-icon-box p{
+        padding-left: 60px
+    }
+
+    .our-team .member-info h3{
+        font-size: 18px;
+        line-height: 22px;
+    }
+    /* Testimonial */
+
+    .testimonial-section{
+        padding: 30px 0;
+    }
+
+    /* Team-Page */
+
+    .our-team{
+        margin: 15px 0;   
+    }
+
+    /* Counter-section */
+
+    .counter-section .overlay{
+        padding: 40px 0;
+    }
+
+    .counter-section .overlay .counter .count-num{
+        font-size: 23px;
+        line-height: 23px;
+    }
+
+    .counter-section .overlay .counter span.Inr-icon a{
+        font-size: 32px;
+        line-height: 32px;
+    }
+
+    .counter-section .overlay .counter h4{
+        font-size: 16px;
+        line-height: 22px;
+    }
+    /* Progressive-Section */
+
+
+    .progress-section .progressive-bar{
+        padding: 30px 15px;
+    }
+
+    .progress-section .progressive-bar .section-title h1{
+        font-size: 23px;
+        line-height: 30px;
+    }
+
+    .progress-section .progressive-bar h1 span{
+        font-size: 27px;
+        line-height: 33px;
+    }
+
+
+    /* Contact-Us-Page */
+    .contact-page .get-location{
+        height: 350px;
+    }
+
+    .contact-page .contact-us-bg-overlay-img .overlay{
+        padding: 40px 0; 
+    }
+
+    .contact-page .contact-us-bg-overlay-img .overlay h1{
+        font-size: 24px;
+        line-height: 32px;
+        margin: 10px 0 20px 0;
+    }
+
+    /* Single-blog-page */
+
+    .single-blog-page .single-blog-detail h2{
+        font-size: 20px;
+        line-height: 28px;
+    }
+
+    .single-blog-page .single-blog-detail h3{
+        font-size: 18px;
+        line-height: 24px;
+    }
+
+    .single-blog-page .single-blog-detail h4{
+        font-size: 15px;
+        line-height: 20px;
+    }
+
+    .single-blog-page .single-blog-detail blockquote{
+        font-size: 16px;
+        line-height: 24px;
+    }
+
+    .single-blog-page .share-box{
+        margin: 20px 0;
+    }
+
+    .comments-section h3.comments-title{
+        font-size: 17px;
+        line-height: 23px;
+        margin-bottom: 20px;
+    }
+
+    .single-blog-page .comments-section .media .media-left{
+        padding-right: 10px;
+    }
+
+    .single-blog-page .comments-section .media .media-left a{
+        width: 50px;
+        height: 50px;
+    }
+
+    .single-blog-page .comments-section .media-list.children{
+        margin-left: 30px;
+    }
+
+
+
+    .single-blog-page .comments-section .media .comment-meta span a{
+        margin-right: 10px;
+        margin-left: 0px;
+    }
+
+    /* Blog-Page */
+
+    .single-blog-page.single-blog article.post-entry .entry-content{
+        padding: 15px;
+    }
+
+    .single-blog-page.single-blog article.post-entry h4.entry-title{
+        font-size: 18px;
+        line-height: 25px;
+    }
+    
+     .single-blog-page.single-blog .sidebar-widget article.post-entry h4.entry-title{
+        font-size: 15px;
+        line-height: 22px;
+    }
+
+    .single-blog-page.single-blog .pagination > li > a, .pagination > li > span{
+        width: 35px;    
+        height: 35px;
+        line-height: 35px;
+    }
+
+
+
+
+}
+
+@media only screen and (min-width: 568px) and (max-width: 640px){
+
+    /* Banner-Section */ 
+
+    .banner-section{
+        min-height: 350px;
+    }
+    .banner-section .inner h1.banner-content{
+        font-size: 18px;
+        line-height: 24px;
+        letter-spacing: 0;
+    }
+
+    /* Contact-Us-Page */
+    .contact-page .get-location{
+        height: 400px;
+    }
+
+    /* Single-blog-Page */
+
+    .single-blog-page .single-blog-detail h2{
+        font-size: 22px;
+        line-height: 30px;
+    }
+
+    .single-blog-page .single-blog-detail h3{
+        font-size: 19px;
+        line-height: 25px;
+    }
+
+    .single-blog-page .single-blog-detail h4{
+        font-size: 16px;
+        line-height: 22px;
+    }
+}
+
+@media only screen and (min-width: 568px) and (max-width: 767px){
+    /* Banner-Section */ 
+
+    .banner-section .slide-content .coll-middle .inner .container{
+        padding-top: 78px;
+    }
+
+
+    /* Our-Service */
+
+    .our-services{
+        padding: 50px 0 30px 0; 
+    }
+
+    /* Planet-overlay */
+    .planet-section .overlay{
+        padding: 50px 0;
+    }   
+
+    .section-title{
+        margin-bottom: 30px;
+    }
+
+    .section-title h2{
+        font-size: 22px;
+        line-height: 28px;
+    }
+
+
+    /* Choose-Roofing-Section */
+
+    .choose-roofing-section{
+        padding: 50px 0 0px 0;
+    } 
+
+    .choose-roofing-section .icon-box.m-b-40{
+        margin-bottom: 30px !important;
+    }
+
+    /* Roofing-section */
+
+    #roofing-section .icon-box.m-b-40{
+        margin-bottom: 25px !important;
+    }
+
+    /* Latest-News-Section */
+    .latest-news-section.m-b-60{
+        margin-bottom: 40px !important;
+    }
+
+    .latest-news-section .view-all-blog.m-b-20{
+        margin-bottom: 0px !important;
+    }
+
+    .latest-news-section .view-all-blog.m-t-30{
+        margin-top: 0px !important;
+    }
+
+    /* Overlay Section */
+
+    .overlay-section .overlay{
+        padding: 50px 0;
+    }
+
+    .overlay-section .overlay h1{
+        line-height: 32px;
+        font-size: 26px;
+    }
+
+    /* Latest-Project */
+
+    .latest-project{
+        margin: 30px 0;
+    }
+
+    /* quote-form */
+
+    .quote-form{
+        margin: 50px 0; 
+    }
+
+
+
+    /* About-Us-Page */
+
+    /* Page-Header */
+
+    .page-header .overlay{
+        padding: 105px 0 40px 0;
+    }
+
+    .page-header .overlay h1.page-title{
+        font-size: 29px;
+        line-height: 36px;
+    }
+
+    .page-header .overlay p{
+        font-size: 21px;
+        line-height: 28px;
+    }
+
+    /* Our Company*/
+
+    .our-company{
+        margin: 20px 0;
+
+    }
+    .our-company .creative-designs.m-t-50{
+        margin-top: 20px !important;
+
+    }
+
+    /* Team-Page */
+
+    .our-team{
+        margin: 20px 0 20px 0;
+    }
+
+    .our-team .col-xs-12{
+        width: 50%;
+    }
+    /* Counter-Section */
+
+    .counter-section .overlay{
+        padding: 50px 0;
+    }
+
+    .counter-section .overlay .col-xs-12{
+        width: 50%;
+    }
+
+    .counter-section .overlay .counter .count-num{
+        font-size: 30px;
+        line-height: 30px;
+    }
+
+    .counter-section .overlay .counter h4{
+        font-size: 17px;
+    }
+
+    /* Progressive Bar */
+
+    .progress-section .progressive-bar{
+        padding: 30px 15px;
+    }
+
+    /* Testimonia */
+
+    .testimonial-section{
+        padding: 40px 0;
+    }
+
+    /* Portfolio */
+
+    .portfolio-page #grid-portfolio .col-xs-12{
+        width: 50%;
+    }
+
+    /* Contact-Us-Page */
+    .contact-page .get-location{
+        height: 350px;
+    }
+
+    .contact-page .contact-us-bg-overlay-img .overlay{
+        padding: 60px 0; 
+    }
+
+    .contact-page .contact-us-bg-overlay-img .overlay h1{
+        font-size: 24px;
+        line-height: 32px;
+        margin: 10px 0 20px 0;
+    }
+
+    /* Single-blog-page */
+
+
+
+    .single-blog-page .single-blog-detail blockquote{
+        font-size: 16px;
+        line-height: 24px;
+        line-height: 22px;
+    }
+
+    .single-blog-page .share-box{
+        margin: 20px 0;
+    }
+
+    .comments-section h3.comments-title{
+        margin-bottom: 25px;
+    }
+
+    .single-blog-page .comments-section .media .media-left{
+        padding-right: 10px;
+    }
+
+
+    .single-blog-page .comments-section .media-list.children{
+        margin-left: 55px;
+    }
+
+
+    /* Blog-Page */
+    .single-blog-page.single-blog .left-bar .col-xs-12{
+        width: 50%;
+    }
+
+    .single-blog-page article.post-entry .entry-content{
+        padding: 20px;
+    }
+
+    .single-blog-page article.post-entry h4.entry-title{
+        font-size: 19px !important;
+        line-height: 25px;
+    }
+
+     .single-blog-page .sidebar-widget article.post-entry h4.entry-title{
+        font-size: 15px !important;
+        line-height: 22px;
+    }
+
+    /* Footer */
+
+    #footer .widgetized-footer{
+        padding: 30px 0 0 0;
+    }
+}
+
+@media only screen and (min-width: 640px) and (max-width: 767px){
+
+    /* Banner-Section */ 
+
+    .banner-section{
+        min-height: 400px;
+    }
+
+    .banner-section .inner h1.banner-content{
+        font-size: 20px;
+        line-height: 26px;
+        letter-spacing: 2px;
+    }
+
+    /* Contact-Us-Page */
+    .contact-page .get-location{
+        height: 450px;
+    }
+
+    /* Team-Page */
+
+    .progress-section .progress-img img{
+        width: 100%;
+    }
+
+
+    /* Latest-news-Section */
+    article.post-entry .article-img img{
+        width: 100%; 
+    }
+
+    /* About-Us */
+
+    .about-us-page .image-slider{
+        margin-bottom: 0 !important;
+    }
+
+    /* Single-blog-Page */
+
+    .single-blog-page .single-blog-detail h2{
+        font-size: 23px;
+        line-height: 31px;
+    }
+
+    .single-blog-page .single-blog-detail h3{
+        font-size: 20px;
+        line-height: 25px;
+    }
+
+}   
+
+@media only screen and (max-width: 767px) {
+    .navbar-default{
+        background-color: #000;
+    }
+    .navbar-default .navbar-nav .open .dropdown-menu>li>a:focus, .navbar-default .navbar-nav .open .dropdown-menu>li>a:hover{
+        color: #fff;
+    }
+    .navbar-default .navbar-nav>li>a:hover{
+        color: #ff8a01;
+    } 
+
+    .navbar-default .navbar-nav > li{
+        line-height: 0;
+    }
+
+    .navbar-default .navbar-collapse, .navbar-default .navbar-form{
+        background-color: #000;
+        border: none;
+    }
+    .navbar-default .navbar-toggle{
+        border: none;
+        margin-top: 23px;
+        margin-bottom: 23px;
+    }
+    .navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover{
+        background-color: transparent;
+    }
+    .navbar-default .navbar-toggle .icon-bar{
+        background-color: #fff;
+    }
+    .navbar-default .navbar-nav>li>a{
+        padding: 10px 15px;
+        display: block;
+    }
+    .navbar-default .navbar-nav>li>a:hover{
+        background-color: transparent;
+        color: #ff8a01;
+    }
+    .navbar-nav .open .dropdown-menu{
+        background-color: #202020;
+        box-shadow: none;
+        border-radius: 0;
+        -webkit-border-radius: 0px;
+        -moz-border-radius: 0px;
+    }
+    .navbar-nav{
+        margin-top: 7.5px;
+    }
+
+    /* Our-Service */
+
+    .our-services .icon-box .content h4{
+        padding-bottom: 10px;
+    }
+
+    /* Planet-Section */
+
+    .planet-section .overlay p{
+        width: 100%;
+    }
+
+    .planet-section .overlay h2{
+        padding-bottom: 10px;
+    }
+
+    /* Choose-roofing-section */
+    .choose-roofing-section .icon-box .content h4{
+        padding-bottom: 10px;
+    }
+    
+    
+    /* quote-form */
+
+    .quote-form .quote-form-entry{
+        width: 100%;
+    }
+
+    /* Footer */
+
+    #footer .footer-widget{
+        margin-bottom: 25px;
+    }
+
+    #footer .footer-widget h3.widget-title{
+        margin-bottom: 10px;
+    }
+
+    /* About-us page */
+
+    .our-company .company-image-slider .company-image img{
+        width: 100%;
+    }
+
+    /* Team-Page */
+
+    .progress-section .progressive-bar{
+        width: 100%;
+    }
+
+    /* Progress-Section */
+
+    .progress-section .progress-img{
+        display: block !important;
+    }
+
+
+    /* Sidebar */
+
+    aside.sidebar{
+        margin-top: 20px;
+    }
+
+    /* single-blog-page */
+    .single-blog-page .sidebar-widget.widget.widget_tag_cloud{
+        margin-bottom: 0px;
+    }
+
+    /* single-page */
+
+    /* Portfolio-Page */
+
+    #grid-portfolio .col-md-4{
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+}
+
+@media only screen and (min-width: 568px) and (max-width: 991px){
+
+    .progress-section .progressive-bar .section-title h1{
+        font-size: 30px;
+        line-height: 30px;
+    }
+
+    .progress-section .progressive-bar h1 span{
+        font-size: 34px;
+        line-height: 34px;
+    }
+
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px){
+
+
+    /* Banner-Section */
+
+    .banner-section{
+        min-height: 450px;
+    }
+    .banner-section .inner h1.banner-content{
+        font-size: 24px;
+        line-height: 31px;
+        letter-spacing: 2px;
+    }
+
+    /* planet-section */
+
+    .planet-section .overlay p{
+        width: 80%;
+    }
+    /* Overlay-Section */    
+
+    .overlay-section .overlay h1{
+        line-height: 36px;
+        font-size: 30px
+    }
+
+    /* Quote-Form */
+
+    .quote-form .quote-form-entry{
+        width: 80%;
+    }
+
+    /* About-Us-Page */
+
+    /* Page-Header */
+
+    .page-header .overlay{
+        padding: 100px 0 50px 0;
+    }
+
+    .page-header .overlay h1.page-title{
+        font-size: 29px;
+        line-height: 34px;
+    }
+
+
+    /* Our Company*/
+
+    .our-company{
+        margin: 30px 0 45px 0;
+    }
+    .our-company .creative-designs.m-t-50{
+        margin-top: 35px !important;
+
+    }
+
+    /* Testimonia */
+
+    .testimonial-section{
+        padding: 40px 0;
+    }
+
+    /* Team-page */
+
+    .our-team{
+        margin: 20px 0;
+    }
+
+    /* Progressive Section */
+
+    .progress-section{
+        //margin-top: 20px;
+    }
+
+    .progress-section .progressive-bar{
+        padding: 40px 30px;
+    }
+
+
+    .progress-section .progress-img img{
+        width: 100%;
+    }
+
+
+    /* Contact-Us-Page */
+    .contact-page .get-location{
+        height: 500px;
+    }
+
+    /* Blog-Page */
+
+    .single-blog-page .blog-post .post-blog{
+        padding: 20px;
+    }
+
+    .single-blog-page .blog-post .post-blog .post-info a{
+        margin-right: 15px;
+    }
+
+    .single-blog-page .single-blog-detail h2{
+        font-size: 26px;
+        line-height: 32px;
+    }
+
+    .single-blog-page .single-blog-detail h3{
+        font-size: 22px;
+        line-height: 28px;
+    }
+
+
+    .single-blog-page article.blog-post .post-blog{
+        padding: 25px;
+    }
+
+    .single-blog-page article.blog-post .post-blog .post-title{
+        font-size: 19px;
+        line-height: 25px;
+    }
+
+    .single-blog-page article.blog-post .post-blog .post-info a{
+        margin-right: 6px;
+    }
+
+    .single-blog-page .left-bar .col-sm-6{
+        width: 100%;
+    }
+
+    /* Section-Title */
+
+    .section-title{
+        margin-bottom: 40px;
+    }
+
+    .section-title h2{
+        font-size: 27px;
+    }
+
+    /* About-Us-Page */
+
+    .about-us-page .our-company .creative-designs .about-us-icon-box h4 span{
+        height: 50px;
+        width: 50px;
+        line-height: 48px;
+    }
+
+    .about-us-page .our-company .creative-designs .about-us-icon-box h4{
+        height: 25px;
+        padding-left: 60px;
+    }
+
+    .about-us-page .our-company .creative-designs .about-us-icon-box p{
+        padding-left: 60px;
+    }
+
+    .about-us-page .image-slider{
+        margin-bottom: 0 !important;
+    }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1200px){
+
+    /* Team-Page */
+
+    
+
+    /* Single-blog-page */
+
+    .sidebar .sidebar-widget article.post-entry.design1{
+        padding-bottom: 10px;
+    }
+
+    .sidebar .sidebar-widget article.post-entry.design1 .featured-image img{
+        width: 90%;
+    }
+
+    .sidebar .sidebar-widget article.post-entry.design1 .right-col{
+        padding-left: 90px;
+    }
+
+    .sidebar .sidebar-widget article.post-entry.design1 .right-col .entry-header h4.entry-title{
+        font-size: 12px;
+        line-height: 18px;
+    }
+}
+
+
+
+@media only screen and (min-width: 992px) and (max-width: 1200px){
+
+
+    .about-us-page .image-slider{
+        margin-bottom: 0;
+    }
+}
