@@ -249,6 +249,7 @@ label {
 
 .m-b-20 {
   margin-bottom: 20px;
+  margin-top: 80px;
 }
 
 .m-b-25 {
@@ -1194,7 +1195,7 @@ section{
 .team-member .member-img img {
   position: relative;
   left: 0;
-  width: 100%;
+  width: 70%;
   transition: all 2s ease;
 }
 .team-member .social-links {
@@ -1563,7 +1564,11 @@ article.post-entry:after {
 }
 
 .article-img{
+  box-sizing: border-box;
   margin-bottom:20px;
+  float: left;
+  width: 100%;
+  padding: 5px;
 }
 
 
@@ -1985,7 +1990,7 @@ article.post-entry:after {
 }
 
 .contact-form .form-group {
-  margin-bottom: 20px;
+  margin-bottom: 50px;
 }
 .contact-form .form-control {
   background-color: #fafafa;
@@ -2037,7 +2042,7 @@ article.post-entry:after {
 /*** Footer ***/
 
 #footer {
-  background-image: url(../images/footer-bg.jpg);
+ 
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
