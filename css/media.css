@@ -217,6 +217,10 @@
         margin: 15px 0;   
     }
 
+    .member-img{
+        padding-left: 55px;
+    }
+
     /* Counter-section */
 
     .counter-section .overlay{
